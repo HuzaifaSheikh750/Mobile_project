@@ -1,0 +1,20 @@
+.cont{
+    text-align: center;
+}
+.video{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+
+.cont h3{
+    font-size: 1.5em;
+    margin: 20px;
+    padding: 10px;
+    font-weight: bolder;
+    color: rgb(240, 83, 56);
+    font-size: 40px;
+    text-decoration:overline;
+}
